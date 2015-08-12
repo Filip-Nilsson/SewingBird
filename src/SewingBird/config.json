@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "SewingBird"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-SewingBird-944171c0-9166-4c78-8635-c05a2f0d8a1a;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

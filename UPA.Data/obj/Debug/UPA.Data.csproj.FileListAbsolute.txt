@@ -1,0 +1,16 @@
+D:\Checkouts\UPA.Data\bin\Debug\UPA.Data.dll.config
+D:\Checkouts\UPA.Data\bin\Debug\UPA.Data.dll
+D:\Checkouts\UPA.Data\bin\Debug\UPA.Data.pdb
+D:\Checkouts\UPA.Data\bin\Debug\EntityFramework.dll
+D:\Checkouts\UPA.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Checkouts\UPA.Data\bin\Debug\log4net.dll
+D:\Checkouts\UPA.Data\bin\Debug\UPA.Model.dll
+D:\Checkouts\UPA.Data\bin\Debug\UPA.Model.pdb
+D:\Checkouts\UPA.Data\bin\Debug\EntityFramework.xml
+D:\Checkouts\UPA.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Checkouts\UPA.Data\bin\Debug\log4net.xml
+D:\Checkouts\UPA.Data\obj\Debug\UPA.Data.csprojResolveAssemblyReference.cache
+D:\Checkouts\UPA.Data\obj\Debug\UPA.Data.dll
+D:\Checkouts\UPA.Data\obj\Debug\UPA.Data.pdb
+D:\Checkouts\UPA.Data\bin\Debug\FREJLocal.mdf
+D:\Checkouts\UPA.Data\bin\Debug\FREJLocal_log.ldf
