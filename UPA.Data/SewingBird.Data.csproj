@@ -53,29 +53,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Constants\ArendeStatus.cs" />
-    <Compile Include="Constants\DokumentKategori.cs" />
     <Compile Include="Helpers\IRepositoryProvider.cs" />
     <Compile Include="Helpers\PredicateBuilder.cs" />
     <Compile Include="Helpers\RepositoryFactories.cs" />
     <Compile Include="Helpers\RepositoryProvider.cs" />
-    <Compile Include="IUPAUow.cs" />
+    <Compile Include="ISBUow.cs" />
     <Compile Include="IRepository.cs" />
-    <Compile Include="UPAUow.cs" />
+    <Compile Include="SBUow.cs" />
     <Compile Include="EFRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\UPA.Model\UPA.Model.csproj">
-      <Project>{d6f91468-0d07-4da0-a7c1-f19060b2eda6}</Project>
-      <Name>UPA.Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SewingBird.Model\SewingBird.Model.csproj">
+      <Project>{0fa71d5d-59b8-496f-9422-9f4e4ad7997b}</Project>
+      <Name>SewingBird.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
