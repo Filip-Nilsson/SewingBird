@@ -14,7 +14,7 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SewingBird", "src\SewingBir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingBird.Model", "SewingBird.Model\SewingBird.Model.csproj", "{0FA71D5D-59B8-496F-9422-9F4E4AD7997B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingBird.Data", "UPA.Data\SewingBird.Data.csproj", "{1A8ECB15-0E8C-4C6E-82B0-6A492BC4ABA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingBird.Data", "SewingBird.Data\SewingBird.Data.csproj", "{1A8ECB15-0E8C-4C6E-82B0-6A492BC4ABA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
